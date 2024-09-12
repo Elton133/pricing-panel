@@ -14,7 +14,7 @@ This is a simple, responsive Pricing Panel built with HTML and CSS, featuring th
 
 ## Demo
 
-You can see a live demo of the Pricing Panel [here](#). *(Insert link if available)*
+You can see a live demo of the Pricing Panel [here](https://pricingpanel1.netlify.app).
 
 ## Features
 
